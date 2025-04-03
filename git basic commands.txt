@@ -1,0 +1,15 @@
+gitlab basic commands with examples for beginners to learn and practice
+
+
+1.Check Git version:
+git --version
+
+2.Configure Git with your name and email:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+
+3. Creating a New Repository.
+git init
+
+
